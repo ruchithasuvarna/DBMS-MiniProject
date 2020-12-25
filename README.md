@@ -12,3 +12,4 @@ Pharmacy Management System has a login page with 3 fields : username, password a
  Username, password and position will be given by the admin. Only the registered users approved by the admin can login to the page in order to maintain the safety and security of the stocks and payments in pharamacy.  
  
  
+![screenshot_login](https://user-images.githubusercontent.com/70750565/103125898-a4ec3a80-46b2-11eb-9848-dda2130d801d.jpeg)
