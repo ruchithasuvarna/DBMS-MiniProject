@@ -1,0 +1,36 @@
+body
+{
+	margin: 180;
+	padding: 0;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(113, 217, 224);
+}
+button
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(28, 28, 160);
+	width: 30%;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 15px;
+	margin: 10px 0;
+    border: none;
+	outline: none;
+	cursor: pointer;
+}
+.login
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input
+{
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
+select
+{
+    width: 200px;
+    padding: 5px;
+}
